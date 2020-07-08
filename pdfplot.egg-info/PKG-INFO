@@ -1,14 +1,13 @@
 Metadata-Version: 2.1
 Name: pdfplot
-Version: 0.0.1
+Version: 0.0.2
 Summary: Organize and version your matplotlib figures as PDFs
 Home-page: https://github.com/sauhaardac/pdfplot
 Author: Sauhaarda Chowdhuri
 Author-email: sauhaarda@mit.edu
 License: UNKNOWN
-Description: https://img.shields.io/pypi/l/pdfplot
-        
-        # pdfplot
+Description: 
+        # pdfplot ![PyPI - License](https://img.shields.io/pypi/l/pdfplot)
         
         pdfplot is a Python library for easily managing your matplotlib figures as PDF files.
         
