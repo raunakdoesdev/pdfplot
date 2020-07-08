@@ -1,0 +1,9 @@
+README.md
+setup.py
+pdfplot/__init__.py
+pdfplot/pdfplot.py
+pdfplot.egg-info/PKG-INFO
+pdfplot.egg-info/SOURCES.txt
+pdfplot.egg-info/dependency_links.txt
+pdfplot.egg-info/requires.txt
+pdfplot.egg-info/top_level.txt
