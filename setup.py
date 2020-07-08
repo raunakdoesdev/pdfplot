@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pdfplot",  # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Sauhaarda Chowdhuri",
     author_email="sauhaarda@mit.edu",
     description="Organize and version your matplotlib figures as PDFs",

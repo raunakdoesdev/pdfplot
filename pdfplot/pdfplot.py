@@ -35,6 +35,9 @@ def save_figs(filename=None, open=True, folder='.', save_latest=True):
     if save_latest:
         try:
             latest_path = os.path.join(folder, 'latest.pdf')
+            if os.path.exists(latest_path):
+                os.remove(latest_path)
+
             os.symlink(filename, latest_path)
             if open:
                 _open_figs(latest_path)
