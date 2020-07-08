@@ -1,6 +1,5 @@
-https://img.shields.io/pypi/l/pdfplot
 
-# pdfplot
+# pdfplot ![PyPI - License](https://img.shields.io/pypi/l/pdfplot)
 
 pdfplot is a Python library for easily managing your matplotlib figures as PDF files.
 
